@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=c\ transparency\ reflectiveness\ diffusion
+comment0.target=OpticalProp(color,\ double,\ double,\ double)
+comment1.params=
+comment1.target=color\ GetColor()
+comment2.params=
+comment2.target=void\ MakeLuminous()
+comment3.params=
+comment3.target=boolean\ IsLuminous()
+comment4.params=
+comment4.target=double\ Transparency()
+comment5.params=
+comment5.target=double\ Reflectiveness()
+comment6.params=
+comment6.target=double\ Diffusion()
+numComments=7

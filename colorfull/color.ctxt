@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=color()
+comment1.params=red\ green\ blue
+comment1.target=color(double,\ double,\ double)
+comment2.params=c
+comment2.target=color(color)
+comment3.params=rgb
+comment3.target=color(int)
+comment4.params=c
+comment4.target=void\ Init(color)
+comment5.params=red\ green\ blue
+comment5.target=void\ Init(double,\ double,\ double)
+comment6.params=a
+comment6.target=void\ AttenuateBy(double)
+comment7.params=c
+comment7.target=void\ AttenuateBy(color)
+comment8.params=c
+comment8.target=void\ CombineWith(color)
+comment9.params=
+comment9.target=int\ Rgb()
+numComments=10

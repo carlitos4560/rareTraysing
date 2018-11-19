@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=center\ radius\ pr
+comment0.target=Sphere(points.Point3,\ double,\ colorfull.OpticalProp)
+comment1.params=
+comment1.target=points.Point3\ Center()
+comment2.params=intersect
+comment2.target=points.Vector3\ Normal(points.Point3)
+comment3.params=ray
+comment3.target=boolean\ Intersect(Ray)
+comment4.params=ray
+comment4.target=Shader\ CreateShader(Ray)
+numComments=5

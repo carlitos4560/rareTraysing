@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ z
+comment0.target=Point3(double,\ double,\ double)
+comment1.params=p
+comment1.target=Point3(Point3)
+comment2.params=
+comment2.target=double\ X()
+comment3.params=
+comment3.target=double\ Y()
+comment4.params=
+comment4.target=double\ Z()
+comment5.params=v
+comment5.target=void\ Add(Vector3)
+numComments=6

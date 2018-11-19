@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=incident\ obj
+comment0.target=PhongShader(Ray,\ VisibleObject)
+comment1.params=final_color
+comment1.target=void\ GetColor(colorfull.color)
+comment2.params=
+comment2.target=points.Vector3\ Reflect()
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Main()
+comment1.params=
+comment1.target=void\ init()
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ update(java.awt.Graphics)
+comment4.params=img\ status\ x\ y\ width\ height
+comment4.target=boolean\ imageUpdate(java.awt.Image,\ int,\ int,\ int,\ int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment6.params=
+comment6.target=void\ constructor()
+comment7.params=event
+comment7.target=boolean\ SuperCedeEvent(java.awt.Event)
+comment8.params=
+comment8.target=void\ SuperCedeStart()
+comment9.params=
+comment9.target=void\ SuperCedeStop()
+numComments=10

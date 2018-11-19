@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=origin\ dir\ depth
+comment0.target=ShadowRay(points.Point3,\ points.Vector3,\ int)
+comment1.params=
+comment1.target=double\ Attenuation()
+comment2.params=distance\ object
+comment2.target=void\ Record(double,\ VisibleObject)
+comment3.params=c
+comment3.target=void\ DoShade(colorfull.color)
+numComments=4

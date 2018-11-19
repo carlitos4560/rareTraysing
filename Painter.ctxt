@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=MaxX\ MaxY\ tile
+comment0.target=Painter(int,\ int,\ java.awt.Image)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=ic
+comment2.target=void\ addConsumer(java.awt.image.ImageConsumer)
+comment3.params=ic
+comment3.target=boolean\ isConsumer(java.awt.image.ImageConsumer)
+comment4.params=ic
+comment4.target=void\ removeConsumer(java.awt.image.ImageConsumer)
+comment5.params=ic
+comment5.target=void\ requestTopDownLeftRightResend(java.awt.image.ImageConsumer)
+comment6.params=ic
+comment6.target=void\ startProduction(java.awt.image.ImageConsumer)
+numComments=7

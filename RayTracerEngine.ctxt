@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=y\ imagePixels\ offset\ maxX
+comment0.target=void\ DoLine(int,\ int[],\ int,\ int)
+numComments=1

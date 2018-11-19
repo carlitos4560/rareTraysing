@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=prop
+comment0.target=VisibleObject(colorfull.OpticalProp)
+comment1.params=
+comment1.target=boolean\ IsLuminous()
+comment2.params=
+comment2.target=colorfull.OpticalProp\ OpticalProperty()
+comment3.params=
+comment3.target=colorfull.color\ GetColor()
+comment4.params=paramPoint3
+comment4.target=points.Vector3\ Normal(points.Point3)
+comment5.params=paramRay
+comment5.target=boolean\ Intersect(Ray)
+comment6.params=intersect
+comment6.target=colorfull.color\ GetPixel(points.Point3)
+comment7.params=paramRay
+comment7.target=Shader\ CreateShader(Ray)
+numComments=8

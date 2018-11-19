@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=incident\ obj
+comment0.target=Shader(Ray,\ VisibleObject)
+comment1.params=paramcolor
+comment1.target=void\ GetColor(colorfull.color)
+numComments=2

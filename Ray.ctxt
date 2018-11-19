@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=origin\ dir\ depth
+comment0.target=Ray(points.Point3,\ points.Vector3,\ int)
+comment1.params=
+comment1.target=int\ Depth()
+comment2.params=
+comment2.target=double\ Distance()
+comment3.params=
+comment3.target=points.Point3\ Origin()
+comment4.params=
+comment4.target=points.Vector3\ Direction()
+comment5.params=
+comment5.target=VisibleObject\ GetObject()
+comment6.params=shade
+comment6.target=void\ Hit(colorfull.color)
+comment7.params=distance\ object
+comment7.target=void\ Record(double,\ VisibleObject)
+comment8.params=
+comment8.target=points.Point3\ Intersect()
+comment9.params=shade
+comment9.target=void\ DoShade(colorfull.color)
+numComments=10
